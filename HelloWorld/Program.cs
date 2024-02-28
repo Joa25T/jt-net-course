@@ -40,11 +40,15 @@ namespace HelloWorld
                      + "','" + myComp.Price
                      + "','" + myComp.VideoCard + "') \n";
 
-            //File.WriteAllText("log.txt", sql);
+            File.WriteAllText("log.txt", sql + "\n");
             using StreamWriter openfile = new ("log.txt",append : true);
 
-            openfile.WriteLine(sql);
+            openfile.WriteLine(sql +"\n");
 
+            openfile.Close();
+
+            string fileText = (File.ReadAllText("log.txt"));
+            Console.WriteLine(fileText);
         }
     }
 
