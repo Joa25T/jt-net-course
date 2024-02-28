@@ -1,0 +1,24 @@
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                CPUCores,
+                HasWifi,
+                ReleaseDate,
+                Price,
+                VideoCardasd
+                ) VALUES ('Inteli7','12','True','2/28/2024 12:00:28 PM','99.99','Nvidia OrSOMT')INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                CPUCores,
+                HasWifi,
+                ReleaseDate,
+                Price,
+                VideoCard
+                ) VALUES ('Inteli7','12','True','2/28/2024 12:02:22 PM','99.99','Nvidia OrSOMT')
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard,
+                CPUCores,
+                HasWifi,
+                ReleaseDate,
+                Price,
+                VideoCard
+                ) VALUES ('Inteli7','12','True','2/28/2024 12:02:58 PM','99.99','Nvidia OrSOMT') 
+

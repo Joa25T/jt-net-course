@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj": {}
+    "A:\\LearningRepos\\jt-net\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj": {
+    "A:\\LearningRepos\\jt-net\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "A:\\LearningRepos\\jt-net\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "A:\\LearningRepos\\jt-net\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\SPARTAN PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\obj\\",
+        "outputPath": "A:\\LearningRepos\\jt-net\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

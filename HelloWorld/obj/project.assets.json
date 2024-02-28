@@ -3152,11 +3152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "A:\\LearningRepos\\JT-Net\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "A:\\LearningRepos\\JT-Net\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\SPARTAN PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SPARTAN PC\\dotnet-course-code\\HelloWorld\\obj\\",
+      "outputPath": "A:\\LearningRepos\\JT-Net\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
